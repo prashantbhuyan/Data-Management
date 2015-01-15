@@ -1,6 +1,6 @@
 # Prashant B. Bhuyan
-# is607 Week 2 Quiz
-# Due Date 9.5.2014 (End of Day)
+# 9.5.2014
+# Data Acquisition & Management
 
 
 ##### Question 1 #####  
